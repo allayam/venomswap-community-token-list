@@ -215,4 +215,12 @@
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x53BEc32C7bDF05335Db00Fc83B2D91eB58Aa6FeE",
+    "symbol": "AYA",
+    "name": "Maya Project",
+    "decimals": 22,
+    "logoURI": "https://drive.google.com/file/d/1EaBkz3xXehUmmCMswCtFirwJZITIxP5h/view?usp=drivesdk"
+  }
 ]
